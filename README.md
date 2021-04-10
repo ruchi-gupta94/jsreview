@@ -154,7 +154,7 @@ Computers do not like to repeat themselves. We use loops to perform repeated fun
 Write a simple **for** loop:
 
 ```
-for(var i=0; i<=5; ++){
+for(var i=0; i<=5; i++){
 	console.log(i)
 }
 ```
